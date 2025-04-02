@@ -9,7 +9,7 @@ One is tranfer learning from an existing CNN ( EfficientNetB0) and an ensemble o
 The link to the paper is this: https://polynoe.lib.uniwa.gr/xmlui/handle/11400/8719
 
 
-Abstract:
+**Abstract:**
 Very deep neural networks are at the heart of innovation in image classification. 
 However, training and using such networks remains out of reach for projects that do not have the required computational power. 
 This paper focuses on finding strategies for designing efficient neural networks with low computational 
