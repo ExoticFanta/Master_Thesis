@@ -1,6 +1,6 @@
 # Master_Thesis
 The name of my thesis is 
-Comparison of deep learning neural networks in applications of image classification into thematic categories
+**Comparison of deep learning neural networks in applications of image classification into thematic categories**
 
 The project was made in Google Colab mainly using the python library Tensorflow wich is a very popular machine learning library
 It focuses on two architectures of NN design to classify images of the Faashion MNIST dataset.
