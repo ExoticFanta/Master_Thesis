@@ -2,6 +2,7 @@
 The name of my thesis is 
 Comparison of deep learning neural networks in applications of image classification into thematic categories
 
+The project was made in Google Colab mainly using the python library Tensorflow wich is a very popular machine learning library
 It focuses on two architectures of NN design to classify images of the Faashion MNIST dataset.
 One is tranfer learning from an existing CNN ( EfficientNetB0) and an ensemble of 10 much more simpler CNNs
 The link to the paper is this: https://polynoe.lib.uniwa.gr/xmlui/handle/11400/8719
